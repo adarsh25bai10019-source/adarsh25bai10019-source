@@ -23,7 +23,7 @@ I aim to build strong skills in programming, problem-solving, and real-world app
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/your-username  
+- GitHub: [My profile](https://github.com/adarsh25bai10019-source)
 
 ---
 
